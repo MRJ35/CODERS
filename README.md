@@ -4,7 +4,7 @@ A competitive programming platform to practice and prepare different programming
 
 SOME IMPORTANT STEPS TO BE PERFORMED
 
-1) Import the database file from the folder named 'Database File' to your database.
+1) Import the sample database file named 'project-database' to your database.
 2) Add your database link,username and password of your database in the database_connection.java file.
 
 
