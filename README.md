@@ -1,5 +1,5 @@
 
-It is a competitive programming platform to practice and prepare different programming concepts.Users can submit their solutions in four different languages - C++, Java, Python2 and Python3. Users can aldo prepare some important programming concepts to improve their programming skills.
+A competitive programming platform to practice and prepare different programming concepts.Users can submit their solutions in four different languages - C++, Java, Python2 and Python3. Users can aldo prepare some important programming concepts to improve their programming skills.
 
 
 SOME IMPORTANT STEPS TO BE PERFORMED
