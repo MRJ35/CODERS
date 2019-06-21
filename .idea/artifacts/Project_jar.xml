@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Project_jar</output-path>
+    <root id="archive" name="Project.jar">
+      <element id="module-output" name="Project" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/swingx-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/commons-io-2.4(1).jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/mysql-connector-java-5.1.11-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/commons-text-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/rsyntaxtextarea-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/commons-lang3-3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/rsyntaxtextarea-3.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Important JAR Files-20190516T031828Z-001/Important JAR Files/autocomplete-3.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
